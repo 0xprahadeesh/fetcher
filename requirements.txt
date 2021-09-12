@@ -3,3 +3,5 @@ aiodns
 cchardet
 tldextract
 requests
+piexif
+lolcat
